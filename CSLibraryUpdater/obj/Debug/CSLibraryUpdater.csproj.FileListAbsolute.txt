@@ -1,0 +1,27 @@
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\CSLibraryUpdater.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\CSLibraryUpdater.exe
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\CSLibraryUpdater.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\OpenMcdf.dll
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\OpenMcdf.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\OpenMcdf.xml
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.MainForm.resources
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.exe
+c:\users\admin\documents\visual studio 2015\Projects\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.pdb
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\CSLibraryUpdater.exe.config
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.exe
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.pdb
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.MainForm.resources
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.Properties.Resources.resources
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.csproj.GenerateResource.Cache
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\CSLibraryUpdater.exe
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\CSLibraryUpdater.pdb
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\OpenMcdf.dll
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\OpenMcdf.pdb
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\OpenMcdf.xml
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.SupplierDialog.resources
+C:\Users\Derryn Harvie\Dropbox\CSLibraryUpdater\CSLibraryUpdater\obj\Debug\CSLibraryUpdater.csprojResolveAssemblyReference.cache
